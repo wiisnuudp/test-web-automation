@@ -1,0 +1,19 @@
+{
+  "name": "test-web-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiisnuudp/test-web-automation.git"
+  },
+  "author": "wisnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiisnuudp/test-web-automation/issues"
+  },
+  "homepage": "https://github.com/wiisnuudp/test-web-automation#readme"
+}
